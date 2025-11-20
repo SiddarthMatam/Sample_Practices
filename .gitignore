@@ -23,6 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-#Files to be ingnored
-src/components/practice.css
-src/components/practice.jsx
+
